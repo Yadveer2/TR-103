@@ -1,3 +1,4 @@
+// using if else statement
 let marks=69
 if(marks>80 && marks<=100){
     console.log("you get O grade")
@@ -17,11 +18,4 @@ else if(marks>40 && marks<=49){
 else {
     console.log("you get F grade")
 }
-let i=0
-while(i<10){
-    console.log("hello")
-i++
-}
-for(j=0;j<=10;j++){
-    console.log("yadveer")
-}
+
