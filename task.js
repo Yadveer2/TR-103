@@ -17,3 +17,11 @@ else if(marks>40 && marks<=49){
 else {
     console.log("you get F grade")
 }
+let i=0
+while(i<10){
+    console.log("hello")
+i++
+}
+for(j=0;j<=10;j++){
+    console.log("yadveer")
+}
