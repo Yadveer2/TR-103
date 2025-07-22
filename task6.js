@@ -13,7 +13,7 @@ let arr2= [13,34,2,54,6,7];
 console.log(arr2.reduce((acc, item) => {
     if (item > acc) {
         return item;
-    }
+    }       
     return acc;
 }, 0))
 
